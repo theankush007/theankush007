@@ -1,4 +1,4 @@
-![logo](https://github.com/theankush007/theankush007/blob/main/Anku.png)
+![logo](https://github.com/theankush007/theankush007/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ankush Kumar Gouniyal</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
